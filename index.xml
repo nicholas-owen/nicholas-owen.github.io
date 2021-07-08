@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/</link>
+      <atom:link href="https://nicholas-owen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas Owen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicholas Owen</title>
+      <link>https://nicholas-owen.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://nicholas-owen.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testicular somatic cell-like cells derived from embryonic stem cells induce differentiation of epiblasts into germ cells</title>
+      <link>https://nicholas-owen.github.io/publication/pmid34183774/</link>
+      <pubDate>Mon, 28 Jun 2021 22:48:58 +0100</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid34183774/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1038/s42003-021-02322-8&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1038/s42003-021-02322-8&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>REP1-deficiency causes systemic dysfunction of lipid metabolism and oxidative stress in choroideremia</title>
+      <link>https://nicholas-owen.github.io/publication/pmid33755601/</link>
+      <pubDate>Tue, 23 Mar 2021 15:05:11 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid33755601/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1172/jci.insight.146934&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1172/jci.insight.146934&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Omic&#39;s : from data to patients</title>
+      <link>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</link>
+      <pubDate>Wed, 17 Feb 2021 14:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSfZXywXnFfYZjs41d7ZwZqIPl1Skku1T48eClU4M7GlCu6CzDOfiZASp3exQqJztFlVekpmT9nUBUo/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rare disease genetic diagnosis with the Genomic England 100,000 Genomes Project (GEL) UK</title>
+      <link>https://nicholas-owen.github.io/project/project_gel/</link>
+      <pubDate>Sat, 06 Feb 2021 00:13:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/project_gel/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut placerat orci nulla pellentesque dignissim enim sit. Amet aliquam id diam maecenas ultricies. Amet nulla facilisi morbi tempus iaculis urna id volutpat lacus. Pretium quam vulputate dignissim suspendisse in est ante in nibh. Sed velit dignissim sodales ut. Malesuada fames ac turpis egestas sed tempus urna. Parturient montes nascetur ridiculus mus mauris vitae. Dictum varius duis at consectetur lorem. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Purus in massa tempor nec feugiat. Congue nisi vitae suscipit tellus mauris. Pellentesque adipiscing commodo elit at imperdiet dui. Faucibus et molestie ac feugiat sed lectus vestibulum. Est placerat in egestas erat imperdiet sed euismod nisi porta. Amet est placerat in egestas erat imperdiet. Mauris augue neque gravida in fermentum et. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Tincidunt tortor aliquam nulla facilisi cras.&lt;/p&gt;
+&lt;p&gt;Sem viverra aliquet eget sit amet tellus cras adipiscing. Imperdiet dui accumsan sit amet nulla facilisi. Eget lorem dolor sed viverra. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Sed augue lacus viverra vitae congue eu consequat. Purus semper eget duis at tellus at. Lobortis mattis aliquam faucibus purus. Augue lacus viverra vitae congue eu consequat ac felis donec. Lectus urna duis convallis convallis tellus id interdum. At auctor urna nunc id cursus metus aliquam eleifend. Nisl tincidunt eget nullam non nisi est sit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ocular Phenotype Associated with DYRK1A Variants</title>
+      <link>https://nicholas-owen.github.io/publication/pmid33562844/</link>
+      <pubDate>Fri, 05 Feb 2021 13:39:15 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid33562844/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.3390/genes12020234&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.3390/genes12020234&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transcriptome analysis of model systems</title>
+      <link>https://nicholas-owen.github.io/project/rna-seq-bulk/</link>
+      <pubDate>Mon, 01 Feb 2021 01:24:50 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/rna-seq-bulk/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut placerat orci nulla pellentesque dignissim enim sit. Amet aliquam id diam maecenas ultricies. Amet nulla facilisi morbi tempus iaculis urna id volutpat lacus. Pretium quam vulputate dignissim suspendisse in est ante in nibh. Sed velit dignissim sodales ut. Malesuada fames ac turpis egestas sed tempus urna. Parturient montes nascetur ridiculus mus mauris vitae. Dictum varius duis at consectetur lorem. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Purus in massa tempor nec feugiat. Congue nisi vitae suscipit tellus mauris. Pellentesque adipiscing commodo elit at imperdiet dui. Faucibus et molestie ac feugiat sed lectus vestibulum. Est placerat in egestas erat imperdiet sed euismod nisi porta. Amet est placerat in egestas erat imperdiet. Mauris augue neque gravida in fermentum et. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Tincidunt tortor aliquam nulla facilisi cras.&lt;/p&gt;
+&lt;p&gt;Sem viverra aliquet eget sit amet tellus cras adipiscing. Imperdiet dui accumsan sit amet nulla facilisi. Eget lorem dolor sed viverra. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Sed augue lacus viverra vitae congue eu consequat. Purus semper eget duis at tellus at. Lobortis mattis aliquam faucibus purus. Augue lacus viverra vitae congue eu consequat ac felis donec. Lectus urna duis convallis convallis tellus id interdum. At auctor urna nunc id cursus metus aliquam eleifend. Nisl tincidunt eget nullam non nisi est sit.&lt;/p&gt;
+&lt;p&gt;Sit amet volutpat consequat mauris nunc congue. Arcu risus quis varius quam quisque id diam vel. Libero enim sed faucibus turpis in. Ac felis donec et odio pellentesque diam volutpat commodo. Pulvinar neque laoreet suspendisse interdum. Molestie nunc non blandit massa enim nec. Sociis natoque penatibus et magnis dis parturient montes. Suscipit adipiscing bibendum est ultricies integer quis auctor. Proin sed libero enim sed. Nunc vel risus commodo viverra maecenas accumsan. Euismod lacinia at quis risus sed vulputate odio. Lacus luctus accumsan tortor posuere ac ut. Lacus vel facilisis volutpat est velit egestas dui. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Gravida cum sociis natoque penatibus et. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New year, new site</title>
+      <link>https://nicholas-owen.github.io/post/2021_01_31/</link>
+      <pubDate>Sun, 31 Jan 2021 14:50:13 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/post/2021_01_31/</guid>
+      <description>&lt;p&gt;With my recent involvement with the &lt;a href=&#34;https://www.ukrn.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK Reproducibility Network&lt;/a&gt;, and continued use of &lt;a href=&#34;https://github.com/nicholas-owen&#34; title=&#34;Github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; for code sharing, I thought it was long past due that I create a quick site to provide access to the code, analysis and associated data for the projects I am working with. The Wellcome Trust funds my position at the Institute of Ophthalmology (UCL) in the Ocular Genomics and Therapeutics lab of Professor &lt;a href=&#34;https://mariyamoosajee.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mariya Mosajee&lt;/a&gt;, and with the Trust&amp;rsquo;s supportive attitude to open research I will document some of the projects and code that we are currently involved with.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Welcome
+return(&amp;quot;Hello World&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;require(stats)
+
+#&#39; Compute different averages
+#&#39;
+#&#39; @param x \code{numeric} vector of sample data
+#&#39; @param type \code{character} vector of length 1 specifying the average type
+#&#39; @return \code{centre} returns the sample average according to the chosen method.
+#&#39; @examples
+#&#39; centre(rcauchy(10), &amp;quot;mean&amp;quot;)
+#&#39; @export
+centre &amp;lt;- function(x, type) {
+  switch(type,
+         mean = mean(x),
+         median = median(x),
+         trimmed = mean(x, trim = .1))
+}
+x &amp;lt;- rcauchy(10)
+centre(x, &amp;quot;mean&amp;quot;)
+
+library(ggplot2)
+
+models &amp;lt;- tibble::tribble(
+  ~model_name,    ~ formula,
+  &amp;quot;length-width&amp;quot;, Sepal.Length ~ Petal.Width + Petal.Length,
+  &amp;quot;interaction&amp;quot;,  Sepal.Length ~ Petal.Width * Petal.Length
+)
+
+iris %&amp;gt;% 
+  nest_by(Species) %&amp;gt;% 
+  left_join(models, by = character()) %&amp;gt;% 
+  rowwise(Species, model_name) %&amp;gt;% 
+  mutate(model = list(lm(formula, data = data))) %&amp;gt;% 
+  summarise(broom::glance(model))
+#&amp;gt; `summarise()` regrouping output by &#39;Species&#39;, &#39;model_name&#39; (override with `.groups` argument)
+#&amp;gt; # A tibble: 6 x 13
+#&amp;gt; # Groups:   Species, model_name [6]
+#&amp;gt;   Species model_name r.squared adj.r.squared sigma statistic  p.value    df
+#&amp;gt;   &amp;lt;fct&amp;gt;   &amp;lt;chr&amp;gt;          &amp;lt;dbl&amp;gt;         &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;     &amp;lt;dbl&amp;gt;    &amp;lt;dbl&amp;gt; &amp;lt;int&amp;gt;
+#&amp;gt; 1 setosa  length-wi…     0.112        0.0739 0.339      2.96 6.18e- 2     3
+#&amp;gt; 2 setosa  interacti…     0.133        0.0760 0.339      2.34 8.54e- 2     4
+#&amp;gt; 3 versic… length-wi…     0.574        0.556  0.344     31.7  1.92e- 9     3
+#&amp;gt; 4 versic… interacti…     0.577        0.549  0.347     20.9  1.11e- 8     4
+#&amp;gt; 5 virgin… length-wi…     0.747        0.736  0.327     69.3  9.50e-15     3
+#&amp;gt; 6 virgin… interacti…     0.757        0.741  0.323     47.8  3.54e-14     4
+#&amp;gt; # … with 5 more variables: logLik &amp;lt;dbl&amp;gt;, AIC &amp;lt;dbl&amp;gt;, BIC &amp;lt;dbl&amp;gt;, deviance &amp;lt;dbl&amp;gt;,
+#&amp;gt; #   df.residual &amp;lt;int&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>📊 Learn Data Science</title>
+      <link>https://nicholas-owen.github.io/course/example/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/course/example/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /course/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg 400w,
+               /course/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_a1cd7731d90ffc91b37c0af3081d00b6.jpg 760w,
+               /course/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/course/example/featured_hu76eaa58daf827988c1005eeac201f4e9_1602413_f33984f4a1c4cb67b249fda35b37581e.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-you-will-learn&#34;&gt;What you will learn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#program-overview&#34;&gt;Program overview&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#courses-in-this-program&#34;&gt;Courses in this program&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#meet-your-instructor&#34;&gt;Meet your instructor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#faqs&#34;&gt;FAQs&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamental &lt;mark&gt;Python programming skills&lt;/mark&gt;&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Statistical concepts&lt;/mark&gt; and how to apply them in practice&lt;/li&gt;
+&lt;li&gt;Gain experience with the &lt;mark&gt;Scikit&lt;/mark&gt;, including data visualization with &lt;mark&gt;Plotly&lt;/mark&gt; and data wrangling with &lt;mark&gt;Pandas&lt;/mark&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program-overview&#34;&gt;Program overview&lt;/h2&gt;
+&lt;p&gt;The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p&gt;
+&lt;h2 id=&#34;courses-in-this-program&#34;&gt;Courses in this program&lt;/h2&gt;
+
+
+
+&lt;h2 id=&#34;meet-your-instructor&#34;&gt;Meet your instructor&lt;/h2&gt;
+&lt;a href=&#34;&#34;&gt;Nicholas Owen&lt;/a&gt;
+&lt;h2 id=&#34;faqs&#34;&gt;FAQs&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+  &lt;summary&gt;Are there prerequisites?&lt;/summary&gt;
+  &lt;p&gt;There are no prerequisites for the first course.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+  &lt;summary&gt;How often do the courses run?&lt;/summary&gt;
+  &lt;p&gt;Continuously, at your own pace.&lt;/p&gt;
+&lt;/details&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;python&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Begin the course&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>From Transcriptomics to Treatment in Inherited Optic Neuropathies</title>
+      <link>https://nicholas-owen.github.io/publication/pmid33499292/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid33499292/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.3390/genes12020147&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;110.3390/genes12020147&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meta-Analysis</title>
+      <link>https://nicholas-owen.github.io/project/meta_analysis/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/meta_analysis/</guid>
+      <description>&lt;p&gt;Meta-research is an emerging discipline, whose goal is to evaluate and improve research practices. This research theme includes work on research methods, reproducibility, evaluation, and communicating science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://nicholas-owen.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAX6 missense variants in two families with isolated foveal hypoplasia and nystagmus: evidence of paternal postzygotic mosaicism</title>
+      <link>https://nicholas-owen.github.io/publication/pmid33024313/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid33024313/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1038/s41431-020-00737-1&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1038/s41431-020-00737-1&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zebrafish retinal mRNA RNA-seq data processing</title>
+      <link>https://nicholas-owen.github.io/publication/pex-946/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pex-946/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data sharing: A primer from UKRN</title>
+      <link>https://nicholas-owen.github.io/publication/primer-data/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/primer-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Code/Software: A primer from UKRN</title>
+      <link>https://nicholas-owen.github.io/publication/primer-opencode/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/primer-opencode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-sequencing in ophthalmology research: considerations for experimental design and analysis</title>
+      <link>https://nicholas-owen.github.io/publication/pmid30911735/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid30911735/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1177/2515841419835460&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1177/2515841419835460&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transcriptome profiling of zebrafish optic fissure fusion</title>
+      <link>https://nicholas-owen.github.io/publication/pmid30733552/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid30733552/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1038/s41598-018-38379-5&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1038/s41598-018-38379-5&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://nicholas-owen.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide RNA-Sequencing analysis identifies a distinct fibrosis gene signature in the conjunctiva after glaucoma surgery</title>
+      <link>https://nicholas-owen.github.io/publication/pmid28717200/</link>
+      <pubDate>Mon, 17 Jul 2017 15:17:54 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid28717200/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1038/s41598-017-05780-5&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1038/s41598-017-05780-5&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://nicholas-owen.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonsyndromic Retinal Dystrophy due to Bi-Allelic Mutations in the Ciliary Transport Gene IFT140</title>
+      <link>https://nicholas-owen.github.io/publication/pmid26968735/</link>
+      <pubDate>Tue, 01 Mar 2016 15:23:10 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid26968735/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1167/iovs.15-17976&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1167/iovs.15-17976&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>BORIS/CTCFL is an RNA-binding protein that associates with polysomes</title>
+      <link>https://nicholas-owen.github.io/publication/pmid24279897/</link>
+      <pubDate>Tue, 26 Nov 2013 14:46:39 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid24279897/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1186/1471-2121-14-52&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1186/1471-2121-14-52&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://nicholas-owen.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional mammalian spliceosomal complex E contains SMN complex proteins in addition to U1 and U2 snRNPs</title>
+      <link>https://nicholas-owen.github.io/publication/pmid22110043/</link>
+      <pubDate>Thu, 01 Mar 2012 16:57:03 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid22110043/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1093/nar/gkr1056&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1093/nar/gkr1056&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design principles for bifunctional targeted oligonucleotide enhancers of splicing</title>
+      <link>https://nicholas-owen.github.io/publication/pmid21602265/</link>
+      <pubDate>Fri, 20 May 2011 23:45:13 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid21602265/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1093/nar/gkr152&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1093/nar/gkr152&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Characterization of the Schizosaccharomyces pombe orthologue of the human survival motor neuron (SMN) protein</title>
+      <link>https://nicholas-owen.github.io/publication/pmid10749974/</link>
+      <pubDate>Sun, 12 Mar 2000 17:04:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid10749974/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1093/hmg/9.5.675&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1093/hmg/9.5.675&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nicholas-owen.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

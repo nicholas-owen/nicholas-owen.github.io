@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open code | Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/tag/open-code/</link>
+      <atom:link href="https://nicholas-owen.github.io/tag/open-code/index.xml" rel="self" type="application/rss+xml" />
+    <description>open code</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 14:50:13 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>open code</title>
+      <link>https://nicholas-owen.github.io/tag/open-code/</link>
+    </image>
+    
+    <item>
+      <title>New year, new site</title>
+      <link>https://nicholas-owen.github.io/post/2021_01_31/</link>
+      <pubDate>Sun, 31 Jan 2021 14:50:13 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/post/2021_01_31/</guid>
+      <description>&lt;p&gt;With my recent involvement with the &lt;a href=&#34;https://www.ukrn.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK Reproducibility Network&lt;/a&gt;, and continued use of &lt;a href=&#34;https://github.com/nicholas-owen&#34; title=&#34;Github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; for code sharing, I thought it was long past due that I create a quick site to provide access to the code, analysis and associated data for the projects I am working with. The Wellcome Trust funds my position at the Institute of Ophthalmology (UCL) in the Ocular Genomics and Therapeutics lab of Professor &lt;a href=&#34;https://mariyamoosajee.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mariya Mosajee&lt;/a&gt;, and with the Trust&amp;rsquo;s supportive attitude to open research I will document some of the projects and code that we are currently involved with.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Welcome
+return(&amp;quot;Hello World&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;require(stats)
+
+#&#39; Compute different averages
+#&#39;
+#&#39; @param x \code{numeric} vector of sample data
+#&#39; @param type \code{character} vector of length 1 specifying the average type
+#&#39; @return \code{centre} returns the sample average according to the chosen method.
+#&#39; @examples
+#&#39; centre(rcauchy(10), &amp;quot;mean&amp;quot;)
+#&#39; @export
+centre &amp;lt;- function(x, type) {
+  switch(type,
+         mean = mean(x),
+         median = median(x),
+         trimmed = mean(x, trim = .1))
+}
+x &amp;lt;- rcauchy(10)
+centre(x, &amp;quot;mean&amp;quot;)
+
+library(ggplot2)
+
+models &amp;lt;- tibble::tribble(
+  ~model_name,    ~ formula,
+  &amp;quot;length-width&amp;quot;, Sepal.Length ~ Petal.Width + Petal.Length,
+  &amp;quot;interaction&amp;quot;,  Sepal.Length ~ Petal.Width * Petal.Length
+)
+
+iris %&amp;gt;% 
+  nest_by(Species) %&amp;gt;% 
+  left_join(models, by = character()) %&amp;gt;% 
+  rowwise(Species, model_name) %&amp;gt;% 
+  mutate(model = list(lm(formula, data = data))) %&amp;gt;% 
+  summarise(broom::glance(model))
+#&amp;gt; `summarise()` regrouping output by &#39;Species&#39;, &#39;model_name&#39; (override with `.groups` argument)
+#&amp;gt; # A tibble: 6 x 13
+#&amp;gt; # Groups:   Species, model_name [6]
+#&amp;gt;   Species model_name r.squared adj.r.squared sigma statistic  p.value    df
+#&amp;gt;   &amp;lt;fct&amp;gt;   &amp;lt;chr&amp;gt;          &amp;lt;dbl&amp;gt;         &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;     &amp;lt;dbl&amp;gt;    &amp;lt;dbl&amp;gt; &amp;lt;int&amp;gt;
+#&amp;gt; 1 setosa  length-wi…     0.112        0.0739 0.339      2.96 6.18e- 2     3
+#&amp;gt; 2 setosa  interacti…     0.133        0.0760 0.339      2.34 8.54e- 2     4
+#&amp;gt; 3 versic… length-wi…     0.574        0.556  0.344     31.7  1.92e- 9     3
+#&amp;gt; 4 versic… interacti…     0.577        0.549  0.347     20.9  1.11e- 8     4
+#&amp;gt; 5 virgin… length-wi…     0.747        0.736  0.327     69.3  9.50e-15     3
+#&amp;gt; 6 virgin… interacti…     0.757        0.741  0.323     47.8  3.54e-14     4
+#&amp;gt; # … with 5 more variables: logLik &amp;lt;dbl&amp;gt;, AIC &amp;lt;dbl&amp;gt;, BIC &amp;lt;dbl&amp;gt;, deviance &amp;lt;dbl&amp;gt;,
+#&amp;gt; #   df.residual &amp;lt;int&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Code/Software: A primer from UKRN</title>
+      <link>https://nicholas-owen.github.io/publication/primer-opencode/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/primer-opencode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
