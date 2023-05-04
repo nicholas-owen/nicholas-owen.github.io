@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/project/</link>
+      <atom:link href="https://nicholas-owen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:13:01 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://nicholas-owen.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Determining the functional disparty between CRB1 variants causing   LCA and RP</title>
+      <link>https://nicholas-owen.github.io/project/project_crb1/</link>
+      <pubDate>Tue, 05 Jul 2022 00:13:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/project_crb1/</guid>
+      <description>&lt;p&gt;&lt;em&gt;CRB1&lt;/em&gt;-related eye disease is a rare genetic disorder that affects the retina, the light-sensitive layer of tissue at the back of the eye &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The &lt;em&gt;CRB1&lt;/em&gt; gene provides instructions for making a protein that is essential for the normal development and function of the retina. This protein helps to regulate the number and arrangement of light-sensitive cells in the retina. Variants in  &lt;em&gt;CRB1&lt;/em&gt; disrupt the normal function of this protein, leading to the death of light-sensitive cells and as a result, people with &lt;em&gt;CRB1&lt;/em&gt; eye disease experience a progressive loss of vision. There is currently no cure for this disorder &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-crb1-genetic-variants-source-gnomad&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;lt;em&amp;gt;CRB1&amp;lt;/em&amp;gt; genetic variants&#34; srcset=&#34;
+               /media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_9e0f8d593c4b26d6f19c4fbfdb4af23a.webp 400w,
+               /media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_481f0b233c6d0c50ce417677c34c727d.webp 760w,
+               /media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_9e0f8d593c4b26d6f19c4fbfdb4af23a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;157&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;CRB1&lt;/em&gt; genetic variants &lt;em&gt;source: gnomAD&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Leber&amp;rsquo;s congenital atrophy (&lt;a href=&#34;https://eyewiki.org/Leber_Congenital_Amaurosis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LCA&lt;/a&gt;) is a form of inherited blindness that is caused by the death of photoreceptor cells in the retina. Retinitis pigmentosa (&lt;a href=&#34;https://eyewiki.org/Retinitis_Pigmentosa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RP&lt;/a&gt;) is another inherited blindness that is caused by the degeneration of the retina. Both conditions can result from variants in &lt;em&gt;CRB1&lt;/em&gt; and may lead to complete blindness. How the distinct phenotypes result from variants in the same gene still remains unclear.&lt;/p&gt;
+&lt;p&gt;I use model systems to investigate several aspects of &lt;em&gt;CRB1&lt;/em&gt;-related eye disease:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the zebrafish &lt;em&gt;crb2a -/-&lt;/em&gt; null model, I am studing how the transcriptome of the retina differences compared to wildtype controls. This has provided us key insights into the molecular changes resulting from loss of &lt;em&gt;crb2a&lt;/em&gt;, and has identified a novel control mechanism for this disease.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-zebrafish-eye&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The zebrafish eye&#34; srcset=&#34;
+               /media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_cd26be66acfbd728eb0427ce80a37f9a.webp 400w,
+               /media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_d2e49de4f4f3c5e1fc8db57d65d11679.webp 760w,
+               /media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_cd26be66acfbd728eb0427ce80a37f9a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The zebrafish eye
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cell lines are often a vital resource for research, especially those generated from tissue kindly provided by patients. We are in the fortunate position of having a patient kindly donate a skin biopsy to allow us to generate induce pluoripotent stem cells (iPSC). We can reprogramme these cells into different cell types and use them for downstream  analysis. Reprogramming into 3D retinal organoids, early eye cups, gives us a fantastic model in which to assess molecular and cellular changes caused by the variants in the &lt;em&gt;CRB1&lt;/em&gt; gene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-3d-retinal-organoid-of-a-crb1-line&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3D retinal organoid&#34; srcset=&#34;
+               /media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_4c92b9c6f30b2943bd4f2c8153bb9bff.webp 400w,
+               /media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_c849c42152f89280813792f153ccf3a8.webp 760w,
+               /media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_4c92b9c6f30b2943bd4f2c8153bb9bff.webp&#34;
+               width=&#34;323&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      3D Retinal Organoid of a &lt;em&gt;CRB1&lt;/em&gt; line
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-gene-ontology-enrichment-analysis-of-crb2a----retina-transcrtipomes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3D retinal organoid&#34; srcset=&#34;
+               /media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_3cd582ec0fe983c880ee67af7b32b096.webp 400w,
+               /media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_3e004bcb1a86a5ee8cd9f281b3baa002.webp 760w,
+               /media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_3cd582ec0fe983c880ee67af7b32b096.webp&#34;
+               width=&#34;703&#34;
+               height=&#34;676&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Gene Ontology Enrichment Analysis of &lt;em&gt;crb2a -/-&lt;/em&gt; retina transcrtipomes.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We hope to assess several &lt;em&gt;CRB1&lt;/em&gt; patients with different variants to give us an insight into how genetic differences within the same gene could result in the varied phenotype (LCA/RP).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wellcome Trust&#34; srcset=&#34;
+               /media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_ab8bad8948cef5884b3ce6d9cfcd5d1a.webp 400w,
+               /media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_ae7b98bb830d53c73081efd58c2f2bb1.webp 760w,
+               /media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_ab8bad8948cef5884b3ce6d9cfcd5d1a.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;100&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://crb1.org/for-families/faqs/what-is-crb1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What is &lt;em&gt;CRB1&lt;/em&gt;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fightingblindness.org/research/horama-acquires-licensing-rights-to-crb1-gene-therapy-119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clinical trials information&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic analysis of model systems</title>
+      <link>https://nicholas-owen.github.io/project/rna-seq-bulk/</link>
+      <pubDate>Wed, 01 Jun 2022 01:24:50 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/rna-seq-bulk/</guid>
+      <description>&lt;p&gt;Cross species transcriptome analysis can be a powerful tool for identifying rare disease genes. By looking at the transcriptome of a variety of species, including humans, it is possible to identify genes that are differentially expressed in the diseased state. This can help to identify both disease-causing genes and genes that are involved in the underlying processes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RNA-Seq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA transcriptomics&lt;/a&gt; is the study of the transcriptome, which is the complete set of RNA molecules, including mRNA, lncRNA, piRNA, and asRNA, that are produced by a cell. Transcriptomics can be used to study the function of genes and to understand how the expression of genes is regulated. RNA-seq data analysis is the process of determining the function and structure of RNA molecules from high-throughput sequencing data, often termed &lt;a href=&#34;https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/next-generation-sequencing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Next Generation Sequencing (NGS)&lt;/a&gt;. This data can be used to understand the underlying changes in gene expression, regulation, in relation to disease or treatment states.&lt;/p&gt;
+&lt;p&gt;Bulk RNA-seq has been the defacto &lt;a href=&#34;https://www.nature.com/articles/s41598-020-76881-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gold standard&lt;/a&gt; used to investigate changes in gene expression, in tissues (including archived samples), cells, and model systems. RNA-seq data analysis involves the identification and characterization of differentially expressed gene or gene sets using a variety of different algorithms.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-go-function&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_2ab92fc196dd605b7b761f5b87f2beda.webp 400w,
+               /media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_b653a4663a41229b8bb1d22b0e77e552.webp 760w,
+               /media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_2ab92fc196dd605b7b761f5b87f2beda.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;241&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;We use bioinformatics of RNA-seq data to explore the functional relationships between the changes in feature (gene/transcript) expression between conditions. Initially modelling and identifying expression of differentially expressed genes (DEGs) allows us to test numerous hypothesis as to what may be driving these changes. Using enrichment and over-representation analysis allows us to furhter link observed changes between conditions to the underlying molecular defects controlling such changes.&lt;/p&gt;
+&lt;p&gt;Using various model systems; including zebrafish mutants, 3D retinal organoid optic cup vesiciles, patient cell lines, iPSC stem cells and standard cell lines, I am interested in how genetic variants in eye disease functionally come about. These diseases include:-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fightforsight.org.uk/get-involved/family-funds-dedicated-groups/teamcrb1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRB1-related Leber Congenital Amaurosis (LCA) and Retinitis Pigmentosa (RP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rarediseases.info.nih.gov/diseases/5440/usher-syndrome-type-2a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ushers Syndrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://macs.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAC (Microphthalmia, Anophthalmia and Coloboma)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iovs.arvojournals.org/article.aspx?articleid=2711472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RDH12-related retinitis pigmentosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34405458/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Myopia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-gel-raredisease&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_62378ddb04b41ec538560fd6df782dbf.webp 400w,
+               /media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_19d2fcf8e57a040adcee25867ed14cdf.webp 760w,
+               /media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_62378ddb04b41ec538560fd6df782dbf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;231&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Using an analagous approach with the &lt;a href=&#34;https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/rare-disease&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics England 100,000 Genomes rare disease dataset (GEL)&lt;/a&gt;, I utilise the RNA-seq data to identify potential novel causative genes from variants of uncertain significance (VUS) in specific patient cohorts.&lt;/p&gt;
+&lt;p&gt;Bioinformatics is used to term a field of biology that deals with the application of computer techniques to the management and analysis of biological data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rare disease genetic diagnosis with the Genomic England 100,000 Genomes Project (GEL) UK</title>
+      <link>https://nicholas-owen.github.io/project/project_gel/</link>
+      <pubDate>Fri, 06 May 2022 00:13:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/project_gel/</guid>
+      <description>
+ 
+ &lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+   &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+ &lt;/details&gt;
+
+&lt;p&gt;Genome sequencing is the process of determining the complete DNA sequence of an organism&amp;rsquo;s genome. This includes all of the organism&amp;rsquo;s genes, as well as any non-coding DNA. Although the predicted number of human genes before 2003 was around 300,000, with the &lt;a href=&#34;https://www.genome.gov/25520492/online-education-kit-2003-human-genome-project-completed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;completion of the human genome&lt;/a&gt; sequencing projects, it was discovered we only have around 21,000 genes &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. With further developments in sequencing approaches, new high throughput methods, and reduction in resources required, the average cost of sequencing the human genome of an individual has been reduced from $2 billion to approximately £700 &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Genome sequencing has revolutionized our understanding of biology and has had a major impact on many areas of science and medicine. For example, it has led to the development of new cancer therapies and has helped us to better understand the evolution of viruses.&lt;/p&gt;
+&lt;p&gt;In partnership with the &lt;a href=&#34;https://www.england.nhs.uk/genomics/what-is-genomics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NHS&lt;/a&gt;, &lt;a href=&#34;https://www.genomicsengland.co.uk/about-us/origins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics England&lt;/a&gt; intially was setup to provide 100,000 whole genomes set out by the UK government in 2015. This was achieved in 2018, when over 100,000 genomes of families with rare diseases or cancer had been generated, to provide sequence based diagnostics to these families &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Academics, clinicians, and students worldwide can join the research community at GEL, the &lt;a href=&#34;https://legacy.genomicsengland.co.uk/about-gecip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics England Clinical Interpretations Partnership&lt;/a&gt; (GECIP, for short). Being part of several GECIPs (Hearing and Sight, Neuroscience, Quantitative methods, machine learning and functional genomics;) has enabled me to query both the whole genome  as well as the human phenotype data to establish novel causes of known eye conditions, and novel variants of known genes using the Research Embassy secureenvironment. Whilst all patient data remains on the &lt;a href=&#34;https://www.genomicsengland.co.uk/research/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEL Research Embassy&lt;/a&gt;, bioinformatic scripts I have generated can be readily found on my &lt;a href=&#34;https://nicholas-owen.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repo  
+  &lt;i class=&#34;fas fa-code-branch  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-moving-forward-to-personalised-genomic-medicine&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Genomic Medicine&#34; srcset=&#34;
+               /media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_3d1e09d24d4132a857e6d070931bf067.webp 400w,
+               /media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_f1849f81f2a0095453945ad732d74bde.webp 760w,
+               /media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_3d1e09d24d4132a857e6d070931bf067.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;433&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      moving forward to personalised genomic medicine
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!--- &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+   &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+
+    &lt;/div&gt;
+---&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.genome.gov/human-genome-project/timeline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;further information and timeline on the HGP&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;the costs associated with sequencing a genome fluctuate and this is only provided as a general guide. Often downstream analysis, such as variant prioritisation and validation add to service costs.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.genomicsengland.co.uk/news/uk-sequenced-100000-genomes-nhs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The UK has sequenced 100,000 whole genomes in the NHS&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Analysis</title>
+      <link>https://nicholas-owen.github.io/project/meta_analysis/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/meta_analysis/</guid>
+      <description>&lt;p&gt;Meta-research is an emerging discipline, whose goal is to evaluate and improve research practices. This research theme includes work on research methods, reproducibility, evaluation, and communicating science.&lt;/p&gt;
+&lt;p&gt;Whilst there is a push for research data to be made open and avaliable to all, the standardisation of how data is processed or even metadata on recording how data has been processed remains limited.&lt;/p&gt;
+&lt;p&gt;In order to overcome this, I have generated several modular bioinformatic pipelines that allow us to process numerous datasets in an identical manner, allowing us to devel further into the data and make comparative analysis. Often there is a distinct communication gap between data scientists and biologists. By providing detailed analysis reports for both the data exploration and interpretation, complete with interactive visualisations, I overcome this by providing tools that allow reseachers from all backgrounds to explore the data in a meaningful way. I  have extensive molecular and cellular experience which enables me to ensure that any data interpretation is comprehensive to key bench researchers and can guide future experimental design. Appropriate communication is vital within MDTs (multi disciplinary teams) that often are needed for large research projects.&lt;/p&gt;
+&lt;p&gt;Some of the most intriguing meta-analysis recently has involved cross-species comparisons of epigenetics and transcriptomics. Using disease model systems we have been able to look at conserved gene expression patterns within eye tissues, across species ranging from zebrafish, chicken, mouse and human. This provides an invaluable insight into both the conserved and divergent molecular pathways involved.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRB1 | Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/tag/crb1/</link>
+      <atom:link href="https://nicholas-owen.github.io/tag/crb1/index.xml" rel="self" type="application/rss+xml" />
+    <description>CRB1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url>
+      <title>CRB1</title>
+      <link>https://nicholas-owen.github.io/tag/crb1/</link>
+    </image>
+    
+    <item>
+      <title>Loss of the crumbs cell polarity complex disrupts epigenetic transcriptional control and cell cycle progression in the developing retina</title>
+      <link>https://nicholas-owen.github.io/publication/pmid36656098/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid36656098/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1002/path.6056&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1002/path.6056&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-details.js&#34;&gt;&lt;/script&gt;
+        &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1002/path.6056&#34; 
+          data-orientation=&#34;horizontal&#34; 
+          data-no-link=&#34;true&#34;
+          data-hide-print=&#34;true&#34;
+          class=&#34;plumx-details&#34; 
+          data-site=&#34;plum&#34; 
+          data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>Determining the functional disparty between CRB1 variants causing   LCA and RP</title>
+      <link>https://nicholas-owen.github.io/project/project_crb1/</link>
+      <pubDate>Tue, 05 Jul 2022 00:13:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/project_crb1/</guid>
+      <description>&lt;p&gt;&lt;em&gt;CRB1&lt;/em&gt;-related eye disease is a rare genetic disorder that affects the retina, the light-sensitive layer of tissue at the back of the eye &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The &lt;em&gt;CRB1&lt;/em&gt; gene provides instructions for making a protein that is essential for the normal development and function of the retina. This protein helps to regulate the number and arrangement of light-sensitive cells in the retina. Variants in  &lt;em&gt;CRB1&lt;/em&gt; disrupt the normal function of this protein, leading to the death of light-sensitive cells and as a result, people with &lt;em&gt;CRB1&lt;/em&gt; eye disease experience a progressive loss of vision. There is currently no cure for this disorder &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-crb1-genetic-variants-source-gnomad&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;lt;em&amp;gt;CRB1&amp;lt;/em&amp;gt; genetic variants&#34; srcset=&#34;
+               /media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_9e0f8d593c4b26d6f19c4fbfdb4af23a.webp 400w,
+               /media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_481f0b233c6d0c50ce417677c34c727d.webp 760w,
+               /media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/crb1-variants2_hu623f183026554622e2a76143c5842fd2_135121_9e0f8d593c4b26d6f19c4fbfdb4af23a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;157&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;CRB1&lt;/em&gt; genetic variants &lt;em&gt;source: gnomAD&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Leber&amp;rsquo;s congenital atrophy (&lt;a href=&#34;https://eyewiki.org/Leber_Congenital_Amaurosis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LCA&lt;/a&gt;) is a form of inherited blindness that is caused by the death of photoreceptor cells in the retina. Retinitis pigmentosa (&lt;a href=&#34;https://eyewiki.org/Retinitis_Pigmentosa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RP&lt;/a&gt;) is another inherited blindness that is caused by the degeneration of the retina. Both conditions can result from variants in &lt;em&gt;CRB1&lt;/em&gt; and may lead to complete blindness. How the distinct phenotypes result from variants in the same gene still remains unclear.&lt;/p&gt;
+&lt;p&gt;I use model systems to investigate several aspects of &lt;em&gt;CRB1&lt;/em&gt;-related eye disease:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the zebrafish &lt;em&gt;crb2a -/-&lt;/em&gt; null model, I am studing how the transcriptome of the retina differences compared to wildtype controls. This has provided us key insights into the molecular changes resulting from loss of &lt;em&gt;crb2a&lt;/em&gt;, and has identified a novel control mechanism for this disease.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-zebrafish-eye&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The zebrafish eye&#34; srcset=&#34;
+               /media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_cd26be66acfbd728eb0427ce80a37f9a.webp 400w,
+               /media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_d2e49de4f4f3c5e1fc8db57d65d11679.webp 760w,
+               /media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/zebrafish-eye_hub88f25813e91862f67b622f2dbab3daa_713152_cd26be66acfbd728eb0427ce80a37f9a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The zebrafish eye
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cell lines are often a vital resource for research, especially those generated from tissue kindly provided by patients. We are in the fortunate position of having a patient kindly donate a skin biopsy to allow us to generate induce pluoripotent stem cells (iPSC). We can reprogramme these cells into different cell types and use them for downstream  analysis. Reprogramming into 3D retinal organoids, early eye cups, gives us a fantastic model in which to assess molecular and cellular changes caused by the variants in the &lt;em&gt;CRB1&lt;/em&gt; gene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-3d-retinal-organoid-of-a-crb1-line&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3D retinal organoid&#34; srcset=&#34;
+               /media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_4c92b9c6f30b2943bd4f2c8153bb9bff.webp 400w,
+               /media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_c849c42152f89280813792f153ccf3a8.webp 760w,
+               /media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/organoid2_huab41c63f0ba55918ecf53d5fe408391d_207274_4c92b9c6f30b2943bd4f2c8153bb9bff.webp&#34;
+               width=&#34;323&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      3D Retinal Organoid of a &lt;em&gt;CRB1&lt;/em&gt; line
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-gene-ontology-enrichment-analysis-of-crb2a----retina-transcrtipomes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3D retinal organoid&#34; srcset=&#34;
+               /media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_3cd582ec0fe983c880ee67af7b32b096.webp 400w,
+               /media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_3e004bcb1a86a5ee8cd9f281b3baa002.webp 760w,
+               /media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/Go-BP_hub5c9e7255e775df44da9424317588124_254609_3cd582ec0fe983c880ee67af7b32b096.webp&#34;
+               width=&#34;703&#34;
+               height=&#34;676&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Gene Ontology Enrichment Analysis of &lt;em&gt;crb2a -/-&lt;/em&gt; retina transcrtipomes.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We hope to assess several &lt;em&gt;CRB1&lt;/em&gt; patients with different variants to give us an insight into how genetic differences within the same gene could result in the varied phenotype (LCA/RP).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wellcome Trust&#34; srcset=&#34;
+               /media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_ab8bad8948cef5884b3ce6d9cfcd5d1a.webp 400w,
+               /media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_ae7b98bb830d53c73081efd58c2f2bb1.webp 760w,
+               /media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/2000px-Wellcome_Trust_logo.svg__hu4e43c9f5e19b3be2b5b9b898648f0fdd_2968_ab8bad8948cef5884b3ce6d9cfcd5d1a.webp&#34;
+               width=&#34;100&#34;
+               height=&#34;100&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://crb1.org/for-families/faqs/what-is-crb1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What is &lt;em&gt;CRB1&lt;/em&gt;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fightingblindness.org/research/horama-acquires-licensing-rights-to-crb1-gene-therapy-119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clinical trials information&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

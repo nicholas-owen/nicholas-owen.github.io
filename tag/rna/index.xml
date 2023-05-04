@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNA | Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/tag/rna/</link>
+      <atom:link href="https://nicholas-owen.github.io/tag/rna/index.xml" rel="self" type="application/rss+xml" />
+    <description>RNA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 01:24:50 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url>
+      <title>RNA</title>
+      <link>https://nicholas-owen.github.io/tag/rna/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomic analysis of model systems</title>
+      <link>https://nicholas-owen.github.io/project/rna-seq-bulk/</link>
+      <pubDate>Wed, 01 Jun 2022 01:24:50 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/rna-seq-bulk/</guid>
+      <description>&lt;p&gt;Cross species transcriptome analysis can be a powerful tool for identifying rare disease genes. By looking at the transcriptome of a variety of species, including humans, it is possible to identify genes that are differentially expressed in the diseased state. This can help to identify both disease-causing genes and genes that are involved in the underlying processes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/RNA-Seq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RNA transcriptomics&lt;/a&gt; is the study of the transcriptome, which is the complete set of RNA molecules, including mRNA, lncRNA, piRNA, and asRNA, that are produced by a cell. Transcriptomics can be used to study the function of genes and to understand how the expression of genes is regulated. RNA-seq data analysis is the process of determining the function and structure of RNA molecules from high-throughput sequencing data, often termed &lt;a href=&#34;https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/next-generation-sequencing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Next Generation Sequencing (NGS)&lt;/a&gt;. This data can be used to understand the underlying changes in gene expression, regulation, in relation to disease or treatment states.&lt;/p&gt;
+&lt;p&gt;Bulk RNA-seq has been the defacto &lt;a href=&#34;https://www.nature.com/articles/s41598-020-76881-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gold standard&lt;/a&gt; used to investigate changes in gene expression, in tissues (including archived samples), cells, and model systems. RNA-seq data analysis involves the identification and characterization of differentially expressed gene or gene sets using a variety of different algorithms.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-go-function&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_2ab92fc196dd605b7b761f5b87f2beda.webp 400w,
+               /media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_b653a4663a41229b8bb1d22b0e77e552.webp 760w,
+               /media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/go-functional_hue1f840aa55b9092aea12fd9ffff345d3_640119_2ab92fc196dd605b7b761f5b87f2beda.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;241&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;We use bioinformatics of RNA-seq data to explore the functional relationships between the changes in feature (gene/transcript) expression between conditions. Initially modelling and identifying expression of differentially expressed genes (DEGs) allows us to test numerous hypothesis as to what may be driving these changes. Using enrichment and over-representation analysis allows us to furhter link observed changes between conditions to the underlying molecular defects controlling such changes.&lt;/p&gt;
+&lt;p&gt;Using various model systems; including zebrafish mutants, 3D retinal organoid optic cup vesiciles, patient cell lines, iPSC stem cells and standard cell lines, I am interested in how genetic variants in eye disease functionally come about. These diseases include:-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fightforsight.org.uk/get-involved/family-funds-dedicated-groups/teamcrb1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRB1-related Leber Congenital Amaurosis (LCA) and Retinitis Pigmentosa (RP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rarediseases.info.nih.gov/diseases/5440/usher-syndrome-type-2a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ushers Syndrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://macs.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAC (Microphthalmia, Anophthalmia and Coloboma)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iovs.arvojournals.org/article.aspx?articleid=2711472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RDH12-related retinitis pigmentosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34405458/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Myopia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-gel-raredisease&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_62378ddb04b41ec538560fd6df782dbf.webp 400w,
+               /media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_19d2fcf8e57a040adcee25867ed14cdf.webp 760w,
+               /media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/gel-rare-disease_hu3df200c42b7c3f78ff947424ec5c71ba_615268_62378ddb04b41ec538560fd6df782dbf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;231&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;Using an analagous approach with the &lt;a href=&#34;https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/rare-disease&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics England 100,000 Genomes rare disease dataset (GEL)&lt;/a&gt;, I utilise the RNA-seq data to identify potential novel causative genes from variants of uncertain significance (VUS) in specific patient cohorts.&lt;/p&gt;
+&lt;p&gt;Bioinformatics is used to term a field of biology that deals with the application of computer techniques to the management and analysis of biological data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BORIS/CTCFL is an RNA-binding protein that associates with polysomes</title>
+      <link>https://nicholas-owen.github.io/publication/pmid24279897/</link>
+      <pubDate>Tue, 26 Nov 2013 14:46:39 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/publication/pmid24279897/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;span style=&#34;float:left&#34;; class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1186/1471-2121-14-52&#34; data-hide-zero-citations=&#34;true&#34; data-legend=&#34;always&#34;&gt;
+      &lt;/span&gt;&lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+      &lt;div  style=&#34;float:right&#34;; data-link-target=&#34;_blank&#34; data-badge-details=&#34;right&#34; data-badge-type=&#34;medium-donut&#34;
+      data-doi=&#34;10.1186/1471-2121-14-52&#34;   data-condensed=&#34;true&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

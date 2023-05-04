@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variant | Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/tag/variant/</link>
+      <atom:link href="https://nicholas-owen.github.io/tag/variant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Variant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 16:41:43 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url>
+      <title>Variant</title>
+      <link>https://nicholas-owen.github.io/tag/variant/</link>
+    </image>
+    
+    <item>
+      <title>Calling Variants from RNA-seq data</title>
+      <link>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</link>
+      <pubDate>Sat, 02 Apr 2022 16:41:43 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/post/2022_04_02_rna-seq_variants/</guid>
+      <description>&lt;p&gt;The current gold standard method of choice to study transcriptome expression is RNA-seq. This is commonly used to study gene expression patterns in a number of organisms; including human, animals and plants, in order to further understand genetic mechanisms underlying phenotype determination, diseases and results of environmental changes. Not only can RNA-seq analysis be used for gene expression, transcript modelling including the identification of novel expressed isoforms or alternative exon usage has become more popular. Examination of the long non-coding RNA atlas (lncRNA) and micro RNAs (miRNA) can readily be carried out using specific RNA-seq approaches. Combined with DNA-seq SNPs have been studied with feature expression data to identify expression quantitative trait locus (eQTL) via GWAS mapping or allele-specific expression (ASE) (for example the human GTEx Consortium, 2020).&lt;/p&gt;
+&lt;p&gt;With the phenomenon of RNA editing, where a nucleotide change can be observed at the RNA level, post DNA transcription, it is possible that variants can only be observed at the RNA level, absent at DNA level (such as WGS or WES).  Therefore RNA-seq can also detect genomic variants in expressed regions of the genome, in addition to DNA-seq. With the current costs of RNA-seq per sample around £300 for 75M paired end reads (150bp), RNA-seq is an attractive approach for variant discovery.&lt;/p&gt;
+&lt;p&gt;Although there are clear advantages in using RNA-seq data for coding region SNP detection, it is not commonly carried out. There are a number of hurdles to overcome:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;transcriptome consists of mature/spliced transcripts&lt;/li&gt;
+&lt;li&gt;short reads frequently overlap exon-exon junctions&lt;/li&gt;
+&lt;li&gt;reads are commonly split using N cigars&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are distinct stages of analysis for variant calling from RNA-seq data. I will try to encompass all of them, so please skip ahead to sections you require.&lt;/p&gt;
+&lt;p&gt;Assumptions I will make: you have the raw reads processed for base scoring and quality controlled, removed adapters, a reference genome has been downloaded and indexes created for the &lt;a href=&#34;https://github.com/alexdobin/STAR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STAR&lt;/a&gt; splice-aware aligner, reads have been aligned using the index with two-pass alignment using STAR.&lt;/p&gt;
+&lt;p&gt;Key notes: ensure that ReadGroups have been added to your resulting BAM files - this can either be done within the aligner command with the argument
+&lt;code&gt;--outSAMattrRGline ID:${sample_id} CN:{SampleCentre} DS:RNAseq LB:{LibraryType} PL:{Platform} SM:${sample_id}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I am going to skip over the initial steps of quality control (QC) and alignment with STAR, as those are outlined in the RNA-seq workflow I have on github. There are however some key files that should have been generated when processing the reference genome fasta (.fa) and aligner index files. Ensure that the reference .fa is indexed correctly, I recommend &lt;a href=&#34;http://www.htslib.org/doc/samtools-faidx.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;samtools faidx&lt;/code&gt;&lt;/a&gt; and that a dictonary (.dict) file has been created, for example with the &lt;a href=&#34;https://gatk.broadinstitute.org/hc/en-us/articles/4405443616667-CreateSequenceDictionary-Picard-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;picard CreateSequenceDictionary&lt;/code&gt;&lt;/a&gt; tool.&lt;/p&gt;
+&lt;p&gt;Analysis:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-wowchemy&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://drive.google.com/uc?id=1yLptERtjtDzx36vqAPZCMJgvbhASdsjq&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;QC&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alignment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Split N Cigar Reads&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base quality recalibration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Call variants&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Base Quality Recalibration&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;-BLURB-&lt;/p&gt;
+&lt;p&gt;One of the hurdles that you may encounter using the&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;pwd&lt;/span&gt; lets go
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

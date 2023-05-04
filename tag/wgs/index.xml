@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WGS | Nicholas Owen</title>
+    <link>https://nicholas-owen.github.io/tag/wgs/</link>
+      <atom:link href="https://nicholas-owen.github.io/tag/wgs/index.xml" rel="self" type="application/rss+xml" />
+    <description>WGS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:13:01 +0000</lastBuildDate>
+    <image>
+      <url>https://nicholas-owen.github.io/media/icon_hu07429c437791d875b8a61cf6e8a19306_182833_512x512_fill_lanczos_center_3.png</url>
+      <title>WGS</title>
+      <link>https://nicholas-owen.github.io/tag/wgs/</link>
+    </image>
+    
+    <item>
+      <title>Rare disease genetic diagnosis with the Genomic England 100,000 Genomes Project (GEL) UK</title>
+      <link>https://nicholas-owen.github.io/project/project_gel/</link>
+      <pubDate>Fri, 06 May 2022 00:13:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/project/project_gel/</guid>
+      <description>
+ 
+ &lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+   &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+ &lt;/details&gt;
+
+&lt;p&gt;Genome sequencing is the process of determining the complete DNA sequence of an organism&amp;rsquo;s genome. This includes all of the organism&amp;rsquo;s genes, as well as any non-coding DNA. Although the predicted number of human genes before 2003 was around 300,000, with the &lt;a href=&#34;https://www.genome.gov/25520492/online-education-kit-2003-human-genome-project-completed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;completion of the human genome&lt;/a&gt; sequencing projects, it was discovered we only have around 21,000 genes &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. With further developments in sequencing approaches, new high throughput methods, and reduction in resources required, the average cost of sequencing the human genome of an individual has been reduced from $2 billion to approximately £700 &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Genome sequencing has revolutionized our understanding of biology and has had a major impact on many areas of science and medicine. For example, it has led to the development of new cancer therapies and has helped us to better understand the evolution of viruses.&lt;/p&gt;
+&lt;p&gt;In partnership with the &lt;a href=&#34;https://www.england.nhs.uk/genomics/what-is-genomics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NHS&lt;/a&gt;, &lt;a href=&#34;https://www.genomicsengland.co.uk/about-us/origins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics England&lt;/a&gt; intially was setup to provide 100,000 whole genomes set out by the UK government in 2015. This was achieved in 2018, when over 100,000 genomes of families with rare diseases or cancer had been generated, to provide sequence based diagnostics to these families &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Academics, clinicians, and students worldwide can join the research community at GEL, the &lt;a href=&#34;https://legacy.genomicsengland.co.uk/about-gecip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics England Clinical Interpretations Partnership&lt;/a&gt; (GECIP, for short). Being part of several GECIPs (Hearing and Sight, Neuroscience, Quantitative methods, machine learning and functional genomics;) has enabled me to query both the whole genome  as well as the human phenotype data to establish novel causes of known eye conditions, and novel variants of known genes using the Research Embassy secureenvironment. Whilst all patient data remains on the &lt;a href=&#34;https://www.genomicsengland.co.uk/research/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEL Research Embassy&lt;/a&gt;, bioinformatic scripts I have generated can be readily found on my &lt;a href=&#34;https://nicholas-owen.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repo  
+  &lt;i class=&#34;fas fa-code-branch  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-moving-forward-to-personalised-genomic-medicine&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Genomic Medicine&#34; srcset=&#34;
+               /media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_3d1e09d24d4132a857e6d070931bf067.webp 400w,
+               /media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_f1849f81f2a0095453945ad732d74bde.webp 760w,
+               /media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://nicholas-owen.github.io/media/GEL_logo_RGB_Dark_hu6cd6f0ac6b5d048b9db63a3e29dc9f26_35248_3d1e09d24d4132a857e6d070931bf067.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;433&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      moving forward to personalised genomic medicine
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!--- &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+   &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+
+    &lt;/div&gt;
+---&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.genome.gov/human-genome-project/timeline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;further information and timeline on the HGP&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;the costs associated with sequencing a genome fluctuate and this is only provided as a general guide. Often downstream analysis, such as variant prioritisation and validation add to service costs.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.genomicsengland.co.uk/news/uk-sequenced-100000-genomes-nhs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The UK has sequenced 100,000 whole genomes in the NHS&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BMPR1B identified as a novel human ocular coloboma gene through cross-species meta-analysis</title>
+      <link>https://nicholas-owen.github.io/talk/bmpr1b-identified-as-a-novel-human-ocular-coloboma-gene-through-cross-species-meta-analysis/</link>
+      <pubDate>Tue, 03 May 2022 08:34:01 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/talk/bmpr1b-identified-as-a-novel-human-ocular-coloboma-gene-through-cross-species-meta-analysis/</guid>
+      <description>
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSnd3yFUI1kvZ6ftlYKNlhPdIvfWIekuUKVQbAEk_c_uDz6C6vq6XwP1JWpmM_NPyIG18F2rnBKQYPA/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omic&#39;s : from data to patients</title>
+      <link>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</link>
+      <pubDate>Wed, 17 Feb 2021 14:00:00 +0000</pubDate>
+      <guid>https://nicholas-owen.github.io/talk/omics-from-data-to-patients/</guid>
+      <description>
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSfZXywXnFfYZjs41d7ZwZqIPl1Skku1T48eClU4M7GlCu6CzDOfiZASp3exQqJztFlVekpmT9nUBUo/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
